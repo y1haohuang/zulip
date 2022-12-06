@@ -35,6 +35,8 @@
         "\n```python\ndef concat(*args, sep='/'):\n    return sep.join(args)\n```",
         "\n```\n(map + [1 2 3] [4 5 6])\n ;;=> (5 7 9)\n```"
       ],
+      "embed-links":
+      ["https://www.youtube.com", "https://www.twitch.com", "https://www.twitter.com", "https://www.netflix.com", "https://www.amazon.com"],
 
       "quote-blocks": [
         "```quote\nBe yourself; everyone else is already taken.\n -- Oscar Wilde\n```",
